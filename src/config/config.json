@@ -1,8 +1,8 @@
 {
-    "TOKEN": "TOKEN-HERE",
-    "CLIENTID": "CLIENT-ID",
+    "TOKEN": "",
+    "CLIENTID": "857605993533014036",
     "OWNER": [
-        "OWNER-ID"
+        "432757817431031808"
     ],
-    "MONGODB": "MONGODB-URL"
+    "MONGODB": "mongodb+srv://nicholaus:FwnNQCKRT4c95JxT@cluster0.zebotwz.mongodb.net/?retryWrites=true&w=majority"
 }

@@ -4,15 +4,7 @@ const colors = require('colors');
 const config = require('./config/config.json')
 
 const client = new Client({
-    intents: [
-        "Guilds",
-        "GuildMessages",
-        "GuildPresences",
-        "GuildMessageReactions",
-        "DirectMessages",
-        "MessageContent",
-        "GuildVoiceStates"
-    ],
+    intents: 32767,
     partials: [
         Partials.Channel,
         Partials.Message,
